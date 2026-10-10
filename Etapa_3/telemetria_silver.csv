@@ -1,0 +1,2 @@
+timestamp_ingestao,device_id,temperatura_c,umidade_solo_pct,luminosidade_pct,indice_estresse,status_solo
+2026-10-10 16:22:19,TINKER-TALHAO-01,24.78,47.0,56.0,40.17,ALERTA
